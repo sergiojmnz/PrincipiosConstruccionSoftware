@@ -1,0 +1,11 @@
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/DAL/PostgresConn.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/controller/AlumnosDAOImpl.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/DAL/Modificar.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/DAL/TestConn.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/DAL/IConsulta.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/DAL/Fabrica.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/DAL/Insertar.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/models/AlumnosModel.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/views/CrudView.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/DAL/Eliminar.java
+/home/sergio/NetBeansProjects/com.mycompany_Crud3_jar_1.0-SNAPSHOT/src/main/java/controller/IAlumnosDAO.java
